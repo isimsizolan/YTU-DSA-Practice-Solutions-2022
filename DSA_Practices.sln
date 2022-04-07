@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practice2", "Practice2", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InfixToPostfix", "InfixToPostfix\InfixToPostfix.vcxproj", "{87E5DA4D-D056-4D2E-8D4B-2B80922131E5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practice3", "Practice3", "{A9AF4F82-250B-4784-902D-2EB2506E19CA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SJF_PriorityQueue", "SJF_PriorityQueue\SJF_PriorityQueue.vcxproj", "{E6D0C7C9-EC7F-4BF9-BB0C-68CBBBC227B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -35,6 +39,14 @@ Global
 		{87E5DA4D-D056-4D2E-8D4B-2B80922131E5}.Release|x64.Build.0 = Release|x64
 		{87E5DA4D-D056-4D2E-8D4B-2B80922131E5}.Release|x86.ActiveCfg = Release|Win32
 		{87E5DA4D-D056-4D2E-8D4B-2B80922131E5}.Release|x86.Build.0 = Release|Win32
+		{E6D0C7C9-EC7F-4BF9-BB0C-68CBBBC227B3}.Debug|x64.ActiveCfg = Debug|x64
+		{E6D0C7C9-EC7F-4BF9-BB0C-68CBBBC227B3}.Debug|x64.Build.0 = Debug|x64
+		{E6D0C7C9-EC7F-4BF9-BB0C-68CBBBC227B3}.Debug|x86.ActiveCfg = Debug|Win32
+		{E6D0C7C9-EC7F-4BF9-BB0C-68CBBBC227B3}.Debug|x86.Build.0 = Debug|Win32
+		{E6D0C7C9-EC7F-4BF9-BB0C-68CBBBC227B3}.Release|x64.ActiveCfg = Release|x64
+		{E6D0C7C9-EC7F-4BF9-BB0C-68CBBBC227B3}.Release|x64.Build.0 = Release|x64
+		{E6D0C7C9-EC7F-4BF9-BB0C-68CBBBC227B3}.Release|x86.ActiveCfg = Release|Win32
+		{E6D0C7C9-EC7F-4BF9-BB0C-68CBBBC227B3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -42,6 +54,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{2B18D3D6-F210-4FEC-A44C-D4D1BE0F0A42} = {E7AD3C3D-0E87-4CDE-84C7-2F0764261532}
 		{87E5DA4D-D056-4D2E-8D4B-2B80922131E5} = {75E9777C-D531-434E-AD89-AFD59EFDD744}
+		{E6D0C7C9-EC7F-4BF9-BB0C-68CBBBC227B3} = {A9AF4F82-250B-4784-902D-2EB2506E19CA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E5E4D170-A38C-4F6B-AC10-61A3781529F4}

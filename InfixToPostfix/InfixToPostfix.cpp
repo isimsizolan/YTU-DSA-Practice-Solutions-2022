@@ -1,3 +1,7 @@
+/*Infix to Postfix Expression Conversion using Stack*/
+/*Source: https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/ */
+/*YTUCE DSA 2022*/
+
 #include <iostream>
 #include <stdio.h>
 
