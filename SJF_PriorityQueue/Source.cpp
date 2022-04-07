@@ -62,6 +62,7 @@ void printProcessInfo(ProcessInfo p)
 void SJF(ProcessInfo* arr)
 {
 	priority_queue<ProcessInfo, vector<ProcessInfo>, cmpBtime> wait;
+	//TODO: implement heap based custom priority queue
 
 	SortbyArrivalTime(arr);
 
